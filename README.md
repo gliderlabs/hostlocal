@@ -1,4 +1,4 @@
-# hostlocal.io
+# hostlocal
 
 Adds the [link-local address](https://en.wikipedia.org/wiki/Link-local_address) 169.254.255.254 (hostlocal.io) to your loopback interface.
 
