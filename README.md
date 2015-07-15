@@ -12,3 +12,5 @@ can be accessed with the hostname `hostlocal.io` from inside any container on th
 ## Credit
 
 This is a "productized" version of [Yelp's fine work](https://speakerdeck.com/solarkennedy/yocalhost-yelps-one-weird-trick-for-avoiding-links-sidekicks-and-overlay-networks-with-docker).
+
+<img src="https://ga-beacon.appspot.com/UA-58928488-2/hostlocal/readme?pixel" />
